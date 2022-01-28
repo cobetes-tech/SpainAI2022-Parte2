@@ -1,12 +1,12 @@
 # Taller: ¡Oh, un modelo de ML, vamos a desplegarlo! - Machine learning para adultos
 
-Este es el repositorio correspondiente a uno de los talleres más molones de la PyConEs 2021.
+Este es el repositorio correspondiente a uno de los talleres más molones de Spain AI 2022.
 
-Tenemos la aplicación desplegada en Heroku. Si quieres echar un ojo, [pincha aquí](https://taller-ml-pycones-2021-1.herokuapp.com/).
+Tenemos la aplicación desplegada en Heroku. Si quieres echar un ojo, [pincha aquí](https://taller-ml-spainai-2022-1.herokuapp.com/).
 
 Para más información:
 
-* https://2021.es.pycon.org
+* https://www.spain-ai.com/evento/ai-workshop-taller-de-machine-learning-en-produccion-ml-para-adultos/
 
 O si quieres, escribenos a:
 
